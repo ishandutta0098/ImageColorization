@@ -1,2 +1,3 @@
 - [Exploring Image Data Augmentation with Keras and Tensorflow](https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844)
 - [Color space definitions in python, RGB and LAB](https://fairyonice.github.io/Color-space-defenitions-in-python-RGB-and-LAB.html)
+- [tf.keras.preprocessing.image.ImageDataGenerator](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
